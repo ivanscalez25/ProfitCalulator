@@ -1,0 +1,2 @@
+# ProfitCalulator
+Calculates your profit
